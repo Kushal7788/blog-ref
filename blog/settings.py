@@ -33,8 +33,6 @@ INSTALLED_APPS = [
 
     'crispy_forms',
     'tinymce',
-
-    'marketing',
     'posts'
 ]
 
